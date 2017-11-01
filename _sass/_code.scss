@@ -17,9 +17,6 @@ code {
   background-color: var(--code-bg-color);
   // No border radius to prevent repaint on code scroll
   // border-radius: 3px;
-}
-
-code.highlighter-rouge {
   box-shadow: 0 1px 1px var(--shadow-color);
 }
 
