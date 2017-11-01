@@ -20,6 +20,19 @@ code {
   box-shadow: 0 1px 1px var(--shadow-color);
 }
 
+highlighter-rouge {
+  padding: .25em .5em;
+  font-size: .85em;
+  // Could be mistaken for a link if the user choses a similar link-color, so better no colored inline code.
+  // color: $code-color;
+  background-color: var(--code-bg-color);
+  // No border radius to prevent repaint on code scroll
+  // border-radius: 3px;
+  box-shadow: 0 1px 1px var(--shadow-color);
+
+
+}
+
 pre code {
   padding: 0;
   font-size: .75em;
