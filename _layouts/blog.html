@@ -1,0 +1,12 @@
+---
+title: Blog
+layout: default
+---
+
+{% for post in paginator.posts %}
+
+{% include blog.html %}
+
+{% endfor %}
+
+{% include post/pagination.html %}
