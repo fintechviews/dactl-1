@@ -1,9 +1,10 @@
 ---
-layout: post
-title: 'Tags in dactl'
+title: Tags in dactl
+date: 2017-03-18 00:00:00 Z
 tags:
-  - dactl
-  - howto
+- dactl
+- howto
+layout: post
 hero: https://source.unsplash.com/collection/427433/
 overlay: green
 ---

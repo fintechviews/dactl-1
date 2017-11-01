@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Footnotes
+date: 2017-03-16 00:00:00 Z
 tags:
-  - dactl
-  - howto
+- dactl
+- howto
+layout: post
 hero: https://source.unsplash.com/collection/228632/
 overlay: red
 ---

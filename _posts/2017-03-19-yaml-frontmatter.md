@@ -1,10 +1,11 @@
 ---
-layout: post
 title: YAML front matter in posts
+date: 2017-03-19 00:00:00 Z
 tags:
-  - jekyll
-  - dactl
-  - howto
+- jekyll
+- dactl
+- howto
+layout: post
 hero: https://source.unsplash.com/collection/345758/
 overlay: orange
 ---

@@ -1,10 +1,11 @@
 ---
-layout: post
-title: 'Layout settings and more in _config.yml'
+title: Layout settings and more in _config.yml
+date: 2017-03-20 00:00:00 Z
 tags:
-  - jekyll
-  - dactl
-  - howto
+- jekyll
+- dactl
+- howto
+layout: post
 hero: https://source.unsplash.com/collection/582860/
 overlay: red
 ---
